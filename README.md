@@ -7,6 +7,6 @@ Contenido
 
 2.- Uso de Python
 
-3.- Presentaciones sepalacuca
+3.- Presentaciones 
 
 4.- Más avances en python
